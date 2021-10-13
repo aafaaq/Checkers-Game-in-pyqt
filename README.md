@@ -3,5 +3,5 @@ This is simple checkers game with console input and resulting pieces will move i
 
 # Project:
 
-https://user-images.githubusercontent.com/39995591/137210456-2eb3541d-1542-4c07-9a54-e408dcbfc70a.mp4
+https://user-images.githubusercontent.com/39995591/137210645-41707c8b-596f-498e-aaa0-5796e3af81bd.mp4
 
